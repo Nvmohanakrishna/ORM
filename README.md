@@ -31,7 +31,8 @@ class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/a09f6a71-99f4-4e00-95c2-0ba65f522778)
+![image](https://github.com/user-attachments/assets/fedf03e6-11f9-4e47-9c26-f7af3fd26b1f)
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
